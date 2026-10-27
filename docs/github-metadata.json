@@ -1,0 +1,15 @@
+{
+  "name": "bbc-news-nlp-classification",
+  "description": "Compare TF-IDF, Word2Vec and MiniLM representations for five-class news categorization, with a reproducible training/test protocol.",
+  "topics": [
+    "nlp",
+    "text-classification",
+    "tf-idf",
+    "word2vec",
+    "sentence-transformers",
+    "scikit-learn",
+    "machine-learning",
+    "python"
+  ],
+  "visibility": "public"
+}
